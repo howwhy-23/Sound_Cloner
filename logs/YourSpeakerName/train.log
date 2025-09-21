@@ -1,0 +1,4 @@
+2025-09-21 20:32:08,515	YourSpeakerName	INFO	{'train': {'batch_size': 4, 'learning_rate': 0.0001, 'port': 29500}, 'model': {'num_layers': 3, 'hidden_size': 512}, 'model_dir': './logs\\YourSpeakerName'}
+2025-09-21 20:32:18,726	YourSpeakerName	INFO	{'train': {'batch_size': 4, 'learning_rate': 0.0001, 'port': 29500}, 'model': {'num_layers': 3, 'hidden_size': 512}, 'model_dir': './logs\\YourSpeakerName'}
+2025-09-21 20:36:50,289	YourSpeakerName	INFO	{'train': {'batch_size': 4, 'learning_rate': 0.0001, 'port': 29500}, 'model': {'num_layers': 3, 'hidden_size': 512}, 'model_dir': './logs\\YourSpeakerName'}
+2025-09-21 20:38:38,647	YourSpeakerName	INFO	{'train': {'batch_size': 4, 'learning_rate': 0.0001, 'port': 29500, 'seed': 42}, 'model': {'num_layers': 3, 'hidden_size': 512}, 'model_dir': './logs\\YourSpeakerName'}
